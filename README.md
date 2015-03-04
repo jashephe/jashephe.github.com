@@ -1,2 +1,1 @@
-# The repository for jashephe.github.com
-Nothing fancy here.
+The repository for http://jashephe.github.io.
